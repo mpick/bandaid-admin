@@ -1,0 +1,1 @@
+<? echo md5(microtime()); echo "<br><br>"; echo time(); ?>
